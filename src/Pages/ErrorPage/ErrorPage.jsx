@@ -9,7 +9,7 @@ export default function ErrorPage() {
 
             <img className="relative" src="https://www.impactbnd.com/hubfs/404-error-page-examples-best.jpg" alt="" />
 
-            <button className="ms-[350px] btn bg-emerald-400 border-0 absolute top-96"><Link to='/'>Back to home</Link></button>
+            <button className="ms-[350px] btn bg-emerald-400 border-0 absolute top-96"><Link to='/'>Back to Home</Link></button>
         </div>
     );
 }
