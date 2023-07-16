@@ -118,7 +118,7 @@ const AddAToy = () => {
                     {/* Rating */}
                     <div className="form-control">
                         <label className="label">
-                            <span className="label-text">Rating</span>
+                            <span className="label-text">Ratingg</span>
                         </label>
                         <input type="text" name="rating" placeholder="Rating of the toy" className="input input-bordered" />
                     </div>
