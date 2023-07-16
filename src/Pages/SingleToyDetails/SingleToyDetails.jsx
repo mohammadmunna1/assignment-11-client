@@ -14,7 +14,7 @@ const SingleToyDetails = () => {
                 <p><span className='font-semibold'>Email: </span> {seller_email}</p>
                 <p><span className='font-semibold'>Available: </span> {available_quantity} pieces</p>
                 <p><span className='font-semibold'>Price: </span> ${price}</p>
-                <p><span className='font-semibold'>Ratings: </span> {rating}</p>
+                <p><span className='font-semibold'>Ratingss: </span> {rating}</p>
             </div>
         </div>
     );
