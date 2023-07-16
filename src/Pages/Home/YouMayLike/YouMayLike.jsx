@@ -11,7 +11,7 @@ const YouMayLike = () => {
                         <img className='mx-auto' src="https://www.sideshow.com/cdn-cgi/image/height=350,quality=75,f=auto/https://www.sideshow.com/storage/product-images/2005054/tinkerbell-fall-variant_j-scott-campbell_silo_sm.png" alt="" />
                     </div>
                     <div className='my-3'>
-                        <h2 className='text-2xl font-semibold'>Tinker Bell</h2>
+                        <h2 className='text-2xl font-semibold'>Tinker Belll</h2>
                         <p className='text-sm'>  figure</p>
                         <p className='font-bold'>$400</p>
                     </div>
