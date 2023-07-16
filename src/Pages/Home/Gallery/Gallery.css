@@ -1,0 +1,24 @@
+.antman{
+    background-image: url('/assets/Gallery/antman.jpg');
+    background-size: cover;
+}
+.gauntlet{
+    background-image: url('/assets/Gallery/infinity gauntlet.jpg');
+    background-size: cover;
+}
+.batman{
+    background-image: url('/assets/Gallery/batman.jpg');
+    background-size: cover;
+}
+.deadpool{
+    background-image: url('/assets/Gallery/deadpool.jpg');
+    background-size: cover;
+}
+.mandalorian{
+    background-image: url('/assets/Gallery/mandalorian.jpg');
+    background-size: cover;
+}
+.incredible{
+    background-image: url('/assets/Gallery/incredible.jpg');
+    background-size: cover;
+}
