@@ -47,7 +47,7 @@ const Header = () => {
                                 <li><Link to='/myToys'>My Toys</Link></li>
                             </div>
                         }
-                        <li><Link to='/blog'>Blogs</Link></li>
+                        <li><Link to='/blog'>BlOgs</Link></li>
                 </ul>
             </div>
             <div className="navbar-end">
