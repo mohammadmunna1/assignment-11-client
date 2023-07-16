@@ -19,7 +19,7 @@ const AllToys = () => {
     return (
         <div>
             <Helmet>
-                <title>Happy Kids World| All Toys</title>
+                <title>Happy Kids World | All Toys</title>
             </Helmet>
             <div className='flex justify-center items-center gap-2 my-5'>
             <input className='w-60 px-2 py-1 border-2 rounded-md'
@@ -37,7 +37,7 @@ const AllToys = () => {
                             <th></th>
                             <th>Name</th>
                             <th>Seller</th>
-                            <th>Sub-category</th>
+                            <th>Sub-categorry</th>
                             <th>Available Quantity</th>
                             <th></th>
                         </tr>
