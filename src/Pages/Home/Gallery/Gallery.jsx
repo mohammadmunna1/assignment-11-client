@@ -24,7 +24,7 @@ const Gallery = () => {
             <div>
                     <div className='h-80 rounded-3xl w-80 text-white text-2xl text-center batman mx-auto'>
                        {/* <div className='h-[480px] w-[320px] text-white text-2xl text-center batman mx-auto my-auto'> */}
-                        <h2 className='text-4xl font-extrabold mb-4 text-black mt-72'>Transformer</h2>
+                        <h2 className='text-4xl font-extrabold mb-4 text-black mt-72'>TransformMer</h2>
                         <button className='btn border-0 bg-lime-700'>Buy now</button>
                     </div>
 
