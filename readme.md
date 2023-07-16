@@ -10,4 +10,4 @@
 
 ## Live Link
 
-https://64b41a7541c2c54f7ffabd47--elegant-pothos-5fb227.netlify.app/
+https://64b42c33b828af59ba884947--elegant-pothos-5fb227.netlify.app/

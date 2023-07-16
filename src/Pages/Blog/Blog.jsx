@@ -21,32 +21,25 @@ const Blog = () => {
 
             <h2 className='text-2xl mb-2 text-black bg-lime-500 '>2. Compare SQL and NoSQL databases.</h2>
             <div className="ps-5 mb-5">
-                <table className=" table border-2 border-dashed">
-                    {/* head */}
-                    <thead>
-                        <tr className='text-center '>
-                            <th className='text-black bg-lime-600'>SQl</th>
-                            <th className='text-black bg-lime-600'>NoSQL</th>
-                        </tr>
-                    </thead>
-                    <tbody>
-                        {/* row 1 */}
-                        <tr>
-                            <td>SQL databases have a structured schema with a rigid tabular format and predefined <br /> columns and data types.</td>
-                            <td> NoSQL databases have a flexible schema allowing for dynamic and unstructured data. <br /> Data can be stored in various formats like key-value pairs, documents, graphs etc.</td>
-                        </tr>
-                        {/* row 2 */}
-                        <tr>
-                            <td>SQL databases use the SQL language to query and manipulate data</td>
-                            <td>NoSQL databases use a variety of query languages specific to the chosen data <br /> model, such as MongoDB's document query language or Cassandra's CQL</td>
-                        </tr>
-                        {/* row 3 */}
-                        <tr>
-                            <td> SQL databases follow the relational data model, where data is organized into tables <br /> with defined relationships between them.</td>
-                            <td>NoSQL databases provide different data models like key-value, document-oriented, columnar, <br /> or graph-based allowing for efficient storage and retrieval of unstructured data.</td>
-                        </tr>
-                    </tbody>
-                </table>
+             <p> 
+                
+           <b className='font-semibold text-black bg-lime-600'> SQL: </b>  
+
+        <p>1 . SQL databases have a structured schema with a rigid tabular format and predefined columns and data types.</p> 
+        <p>2 . SQL databases use the SQL language to query and manipulate data.</p>  
+        <p>3 . SQL databases follow the relational data model, where data is organized into tables with defined relationships between them.</p>  
+
+</p>  
+
+<p>
+
+<b className='font-semibold text-black bg-lime-600'>NoSQL: </b>
+
+<p>1 .  NoSQL databases have a flexible schema allowing for dynamic and unstructured data. Data can be stored in various formats like key-value pairs, documents, graphs, etc.</p>
+<p>2 .  NoSQL databases use a variety of query languages specific to the chosen data model, such as MongoDB's document query language or Cassandra's CQL.</p>
+<p>3 . NoSQL databases provide different data models like key-value, document-oriented, columnar, or graph-based allowing for efficient storage and retrieval of unstructured data.
+</p>
+</p>
             </div>
 
             <h2 className='text-2xl mb-2 text-black bg-lime-500'>3. What is Express JS? What is Nest JS?</h2>
