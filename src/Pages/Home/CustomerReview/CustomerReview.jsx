@@ -8,7 +8,7 @@ import 'swiper/css/navigation';
 const CustomerReview = () => {
     return (
         <div className='max-w-7xl mx-auto mb-10 mt-10'>
-            <h1 className="text-center font-semibold md:text-5xl text-3xl my-10 text-white-950 ">Words from our customers</h1>
+            <h1 className="text-center font-semibold md:text-5xl text-3xl my-10 text-white-950 ">Words from our customeSrs</h1>
             <Swiper
                 modules={[Navigation]}
                 spaceBetween={50}
