@@ -42,7 +42,7 @@ const MyToyRow = ({ toy, handleDelete, setUpdatedToys, handleUpdate }) => {
                         {/* Available quantity */}
                         <div className="form-control">
                             <label className="label">
-                                <span className="label-text">Available quantity</span>
+                                <span className="label-text">Available quantityy</span>
                             </label>
                             <input type="text" name="quantity" placeholder="Available quantity" className="input input-bordered" />
                         </div>
