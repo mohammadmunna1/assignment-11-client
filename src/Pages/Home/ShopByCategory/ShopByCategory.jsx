@@ -60,7 +60,7 @@ const ShopByCategory = () => {
                                 <h2 className="text-2xl font-semibold text-orange-700 mb-5">{toy.name}</h2>
                                 <p className="mb-1"><span className='font-semibold'>Price:</span> ${toy.price}</p>
                                 <p className="mb-1"><span className='font-semibold'>Rating: </span>{toy.rating}</p>
-                                <Link to={`/singleToyDetails/${toy._id}`}><div className="btn bg-lime-800 border-0 mt-5">View Details</div></Link>
+                                <Link to={`/singleToyDetails/${toy._id}`}><div className="btn bg-lime-800 border-0 mt-5">View Detaills</div></Link>
                             </div>
                         </div>
                     ))}
