@@ -14,7 +14,7 @@ const Footer = () => {
                     <p className='footer-title mb-0'>Address</p>
                     <span>1321 street x , camfo, canada</span>
                     <p className='footer-title mb-0'>Phone</p>
-                    <span>+88 22 11 55 , +88 11 44 55 88</span>
+                    <span>+88 22 11 55 , +88 11 44 554 88</span>
                     <p className='footer-title mb-0'>Email</p>
                     <span>contact@happykidsworld.co.uk</span>
                     
